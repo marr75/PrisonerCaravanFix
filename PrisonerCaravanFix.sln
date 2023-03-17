@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonerCaravanFix", "PrisonerCaravanFix.csproj", "{7EA53611-8505-4187-BC86-C655A135AAAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonerCaravanFix", "Source\PrisonerCaravanFix.csproj", "{7EA53611-8505-4187-BC86-C655A135AAAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
